@@ -1,0 +1,15 @@
+.jumbotron {
+   background: #005cbf;
+   color: white;
+}
+
+.jumbotron h1 {
+   font-family: Georgia, serif;
+   font-weight: bolder;
+   font-style: italic;
+}
+
+h3 {
+   border-bottom: 1px solid #005cbf;
+   margin-bottom: 10px;
+}
